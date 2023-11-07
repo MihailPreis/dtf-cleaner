@@ -1,4 +1,4 @@
-# ![](https://www.google.com/s2/favicons?domain=dtf.ru) DTF cleanner
+# ![](https://www.google.com/s2/favicons?domain=dtf.ru) DTF cleaner
 
 Remove live comments and some modals and views from <https://dtf.ru/>
 

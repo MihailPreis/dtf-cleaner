@@ -6,6 +6,7 @@
 // @author       Mihail Preis
 // @copyright    Copyright (c) 2023 Mihail Preis
 // @updateURL    https://raw.github.com/MihailPreis/dtf-cleaner/main/dtf-cleaner.user.js
+// @downloadURL  https://raw.github.com/MihailPreis/dtf-cleaner/main/dtf-cleaner.user.js
 // @match        https://dtf.ru/*
 // @icon         https://www.google.com/s2/favicons?domain=dtf.ru
 // @grant        none
