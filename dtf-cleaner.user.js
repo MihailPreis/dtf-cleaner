@@ -21,7 +21,8 @@
         "lbs-overlay",
         "dstr-bn",
         "propaganda",
-        "aside--right"
+        "aside--right",
+        "supbar"
     ]
 
     let ignoreBodyClassList = [
